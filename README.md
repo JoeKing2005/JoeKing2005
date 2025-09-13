@@ -44,9 +44,10 @@ Hobbies:
 <img width="45" height="45" alt="652581_code_command_develop_javascript_language_icon" src="https://github.com/user-attachments/assets/20291511-1be5-4f73-a937-c5ac796b3cc3" />
 </p>
 <p align="left">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeKing2005&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeKing2005&show_icons=true&theme=radical)
 </p>
 
-![Snake animation](https://github.com/JoeKing2005/JoeKing2005/blob/output/github-contribution-grid-snake.svg)
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
